@@ -1,0 +1,2 @@
+gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.34.1
+MAINTAINER hhp
